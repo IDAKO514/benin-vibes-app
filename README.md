@@ -88,6 +88,8 @@ La suite couvre la base de données, le seed, la recherche, le contrôleur de le
 
 Les morceaux audio et les pochettes présents dans `assets/` sont utilisés à titre de démonstration et restent la propriété de leurs artistes et ayants droit respectifs. Ils ne sont pas couverts par la licence du code et ne doivent pas être réutilisés en dehors de ce projet.
 
+> **Démo en ligne** : pour garder le dépôt léger, seuls trois extraits d'environ 30 secondes sont versionnés (`*.preview.mp3`) — trois morceaux avec paroles synchronisées, un par artiste. Les autres titres de la bibliothèque sont visibles dans l'interface mais leurs fichiers audio restent locaux.
+
 ## Auteur
 
 **Boris Idako** — [GitHub @IDAKO514](https://github.com/IDAKO514)
